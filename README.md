@@ -190,6 +190,8 @@
 
 ### 7. LaTeX 公式
 
+$$\sum_{i=1}^n a_i=0$$
+
 如果想要在Markdown文档中显示一个公式就需要先插入下面一句话。如果你熟悉Markdown文档的话，你很容易发现这实际上是插入了一个图片。
 
 `![公式名](http://latex.codecogs.com/png.latex?这里输入您的公式)`  
