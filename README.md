@@ -1,9 +1,9 @@
 #<font face="宋体" color="red" size="5"><span id="qianyan">前言</span></font>
 [点我跳转到锚](#mao)
 
-# Cmd Markdown 简明语法手册
+# Markdown 简明语法手册
 
-标签： Cmd-Markdown
+标签： Markdown
 
 ---
 
@@ -132,7 +132,7 @@
 |管线  |$1    |234 |
 ***
 
-# Cmd Markdown 高阶语法手册
+# Markdown 高阶语法手册
 
 ### 1. 锚
 锚就是为了实现文章内部的跳转，使用锚需要设置两步。（与超链接类似）  
